@@ -1,5 +1,5 @@
 # Fresh Java
 
-This here is a fresh java project for your development pleasure! It is hooked up gradle, with Junit, Mockito and AssertJ. Includes a trivial class and some tests to get you started.
+This here is a fresh java project for your development pleasure! It is hooked up with gradle, includes Junit, Mockito and AssertJ. Comes with a trivial class and a test to get you started.
 
 Good Luck, Have Batman!
